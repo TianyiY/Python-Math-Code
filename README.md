@@ -4,3 +4,4 @@ Some small math codes
 - Singular value decomposition
 - Fast Fourier transform
 - Simple ConvNet
+- Linear Regression
