@@ -5,3 +5,4 @@ Some small math codes
 - Fast Fourier transform
 - Simple ConvNet
 - Linear Regression
+- Pearson Correlation Coefficient
