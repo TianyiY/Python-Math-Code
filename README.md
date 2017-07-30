@@ -6,3 +6,4 @@ Some small math codes
 - Simple ConvNet
 - Linear Regression
 - Pearson Correlation Coefficient
+- FFT
